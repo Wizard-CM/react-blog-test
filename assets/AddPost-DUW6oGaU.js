@@ -1,1 +1,0 @@
-import{j as r,C as o}from"./index-DbKeXZbU.js";import{P as t}from"./Post_Form-YFqJg_6x.js";import"./index.esm-DvT0I_Bh.js";import"./Button-CZGomfwa.js";const n=()=>r.jsx("div",{children:r.jsx(o,{children:r.jsx(t,{})})});export{n as default};
