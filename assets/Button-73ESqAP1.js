@@ -1,1 +1,0 @@
-import{j as r}from"./index-AHmPkVxf.js";const x=({children:t,bgColor:e="bg-blue-600",textColor:o="text-white",className:s="",type:u="button",...n})=>r.jsx("button",{className:`px-6 py-3 rounded-md ${s} ${o} ${e}`,...n,children:t});export{x as B};
