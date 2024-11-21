@@ -1,0 +1,1 @@
+import{j as s}from"./index-CoApRtb5.js";const i=()=>s.jsx("div",{className:"loader-parent w-full text-center",children:s.jsxs("div",{class:"lds-ellipsis ",children:[s.jsx("div",{}),s.jsx("div",{}),s.jsx("div",{}),s.jsx("div",{})]})});export{i as S};

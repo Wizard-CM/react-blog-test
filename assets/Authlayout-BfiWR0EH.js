@@ -1,0 +1,1 @@
+import{e as x,r,a as c,j as a,h as n}from"./index-CoApRtb5.js";const g=({children:u,authentication:e=!0})=>{const s=x(),[o,f]=r.useState(!0),t=c(l=>l.auth.status);return r.useEffect(()=>{e==!0&&t==!1?s("/login"):e==!1&&t==!0&&s("/"),f(!1)},[t,s,e]),o?a.jsx(n,{}):a.jsx(a.Fragment,{children:u})};export{g as default};
